@@ -156,11 +156,11 @@ python test.py
 - [usage guidelines](http://websvc4.tch.harvard.edu:8090/display/RCK/Usage+Guidelines)
 
 #### List of available GPUs  
-- As of this this month there are ~29 GPUs on the e2 cluster  
+- As of this this month there are ~41 GPU cores on the e2 cluster  
 - At least a dozen of them have 24Gb of RAM 
 - These GPUs are of type: Tesla_K, Tesla_T, Titan_RTX, Quadro_RTX 
 - There is a limit of 4 GPUs per person at any one time 
-- [full list](http://websvc4.tch.harvard.edu:8090/display/RCK/Partition+Association)
+- [full list](http://websvc4.tch.harvard.edu:8090/display/RCK/E2+Resources)
 
 
 #### List of available CPUs  
